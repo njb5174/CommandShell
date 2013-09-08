@@ -1,0 +1,6 @@
+echo foo bar
+pwd
+whoami
+date
+ls
+date
